@@ -1,0 +1,33 @@
+
+html, body {
+	height: 100%;
+}
+
+.site {
+	height: auto;
+}
+
+
+section {
+	position: relative;
+	height: 600px;
+	width: 100%;
+}
+
+
+#section1 {
+	background-color: red;
+}
+#section2 {
+	background-color: blue;
+}
+#section3 {
+	background-color: green;
+}
+#section0 {
+	background-color: white;
+}
+
+.navbar-brand.active {
+	color: 	#F08080;
+}
